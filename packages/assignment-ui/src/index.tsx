@@ -1,3 +1,4 @@
 import "./styles/main.css";
 
-export * from "./button";
+export * from "./Dialog";
+export * from "./Skeleton";
